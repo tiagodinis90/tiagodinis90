@@ -32,6 +32,10 @@ These small Python exercises focus on engineering calculations and configuration
 
 They are screening and test exercises, not validated operational engineering tools.
 
+### Additional engineering labs
+
+Three further Python projects are available together in [Engineering Next-Labs](engineering-next-labs/): DPP record completeness, EU funding-call preflight and reproduction of Anscombe's quartet. They include tests, method notes and sample data. This shared location is temporary until each can have its own repository.
+
 ## Public technical prototypes
 
 - **[qwencoder](https://github.com/tiagodinis90/qwencoder)**: a deterministic provenance-verification prototype.
