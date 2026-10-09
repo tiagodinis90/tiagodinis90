@@ -14,6 +14,14 @@ Most environmental projects are still under active development and are not prese
 - **Almada Urban Metabolism** (private): territorial indicators, land-cover data and the distinction between official, derived, estimated and simulated evidence.
 - **LCA Data Provenance** (private): research tooling for traceability and reproducibility of environmental data; not an EPD certification tool.
 
+## Engineering micro-labs
+
+Six small, tested Python CLIs for mass and energy balances, EPD module comparison, hourly energy data, EUR-Lex text changes, measurement uncertainty and industrial sensor data quality.
+
+Start with **[Process Balance Checker](https://github.com/tiagodinis90/process-balance-checker)** and **[Measurement Uncertainty Lab](https://github.com/tiagodinis90/measurement-uncertainty-lab)** for examples of engineering calculations with explicit assumptions and tests.
+
+See [all six micro-labs, their scope and limitations](ENGINEERING_MICRO_LABS.md). All bundled datasets are synthetic.
+
 ## Public technical prototypes
 
 - **[qwencoder](https://github.com/tiagodinis90/qwencoder)**: a deterministic provenance-verification prototype.
