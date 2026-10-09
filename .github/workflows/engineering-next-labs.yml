@@ -1,0 +1,26 @@
+name: Engineering Next-Labs tests
+on:
+  push:
+    paths:
+      - 'engineering-next-labs/**'
+      - '.github/workflows/engineering-next-labs.yml'
+  pull_request:
+    paths:
+      - 'engineering-next-labs/**'
+      - '.github/workflows/engineering-next-labs.yml'
+permissions:
+  contents: read
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        project: [dpp-readiness-check, eu-funding-eligibility-checker, scientific-results-reproduction]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Run unit tests
+        working-directory: engineering-next-labs/${{ matrix.project }}
+        run: python -m unittest discover -s tests -v

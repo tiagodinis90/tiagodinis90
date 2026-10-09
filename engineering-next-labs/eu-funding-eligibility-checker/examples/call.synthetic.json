@@ -1,0 +1,14 @@
+{
+  "call_id": "DEMO-HORIZON-NOT-REAL",
+  "official_url": "https://commission.europa.eu/funding-and-tenders/how-apply/application-process_en",
+  "deadline": "2027-01-31T17:00:00+01:00",
+  "minimum_organisations": 3,
+  "permitted_roles": [
+    "coordinator",
+    "beneficiary"
+  ],
+  "required_evidence": [
+    "organisation_registration",
+    "consortium_agreement"
+  ]
+}
