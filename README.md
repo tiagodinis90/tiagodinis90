@@ -57,3 +57,7 @@ The two public experiments, COSMOS (Alexander von Humboldt) and KIRIFUSHI, are l
 **Software:** TypeScript, JavaScript, Python, React, JSON/data modelling, testing and debugging.
 
 [LinkedIn](https://www.linkedin.com/in/tiagotdinis90/)
+
+## Research publications: Almada, material flows and political ecology
+
+[**Almada 2026 — public working papers and socioecological theory notebook**](publications/almada-2026/README.md) brings together a reproducible municipal-waste indicator comparison (2023–2024), research protocols on policy observability, cultural-building reuse and material sufficiency, and a clearly identified personal political-ecology notebook. These are independent working papers and essays, **not peer-reviewed research** or party publications. The evidence register notes important discrepancies between waste accounting sources.
