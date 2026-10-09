@@ -1,0 +1,27 @@
+name: Almada research reproducibility
+
+on:
+  push:
+    paths:
+      - 'publications/almada-2026/**'
+      - '.github/workflows/almada-research.yml'
+  pull_request:
+    paths:
+      - 'publications/almada-2026/**'
+      - '.github/workflows/almada-research.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify transcribed values and derived calculations
+        run: node --test publications/almada-2026/municipal-evidence/scripts/amarsul-summary.test.mjs
+      - name: Emit reproducible indicators
+        run: node publications/almada-2026/municipal-evidence/scripts/amarsul-summary.mjs
