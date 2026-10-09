@@ -22,6 +22,16 @@ Start with **[Process Balance Checker](https://github.com/tiagodinis90/process-b
 
 See [all six micro-labs, their scope and limitations](ENGINEERING_MICRO_LABS.md). All bundled datasets are synthetic.
 
+## Applied engineering prototypes
+
+These small Python exercises focus on engineering calculations and configuration quality:
+
+- **[Configuration Migration Validator](https://github.com/tiagodinis90/configuration-migration-validator)**: catch unexpected changes while migrating configuration data.
+- **[Industrial Heat Electrification](https://github.com/tiagodinis90/industrial-heat-electrification)**: compare gas-fired, electric and heat-pump heat supply under explicit assumptions.
+- **[Industrial Water Reuse Screener](https://github.com/tiagodinis90/industrial-water-reuse-screener)**: check mixing and water-quality constraints for an illustrative reuse case.
+
+They are screening and test exercises, not validated operational engineering tools.
+
 ## Public technical prototypes
 
 - **[qwencoder](https://github.com/tiagodinis90/qwencoder)**: a deterministic provenance-verification prototype.
