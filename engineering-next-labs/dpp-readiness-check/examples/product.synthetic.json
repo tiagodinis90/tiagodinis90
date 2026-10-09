@@ -1,0 +1,15 @@
+{
+  "product_id": "DEMO-0001",
+  "manufacturer": "Example Manufacturer (fictional)",
+  "material_composition": [
+    {
+      "material": "steel",
+      "mass_fraction": 0.9
+    }
+  ],
+  "evidence": {
+    "material_composition": {
+      "source_url": "https://example.org/mock-evidence-not-verified"
+    }
+  }
+}
