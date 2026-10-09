@@ -2,45 +2,36 @@
 
 **Environmental Engineer & Systems Developer**
 
-I'm a chemical and environmental engineer based in Portugal, with an MSc in Chemical and Biochemical Engineering from FCT NOVA, NOVA University Lisbon.
+Chemical and environmental engineer based in Portugal, with an MSc in Chemical and Biochemical Engineering from FCT NOVA (NOVA University Lisbon). I worked as a Technical Product Specialist at One Click LCA, maintaining LCA software configurations, moving data structures from JSON to TypeScript and testing calculation behaviour across versions.
 
-I previously worked as a Technical Product Specialist at One Click LCA, developing and maintaining technical configurations for LCA software. My work included migrating JSON configurations to TypeScript-based structures, configuring environmental data inputs and testing calculation behaviour across software versions.
+My technical interests are life cycle assessment, environmental data provenance, scientific software and reproducible calculations.
 
-I'm interested in developing tools that make environmental data and calculations more transparent, reproducible and useful.
+## Engineering work
 
-## Technical background
+Most environmental projects are still under active development and are not presented as finished or independently validated software.
 
-- **Environmental engineering:** Life Cycle Assessment (LCA), carbon data, EPD workflows and environmental assessment methods.
-- **Software:** TypeScript, JavaScript, Python, React, JSON, data modelling, debugging and testing.
-- **Areas of interest:** LCA calculation engines, data provenance, urban metabolism and scientific software.
+- **STRATA LCA** (private): experiments with LCA calculation structures, data modelling, benchmarking and validation.
+- **Almada Urban Metabolism** (private): territorial indicators, land-cover data and the distinction between official, derived, estimated and simulated evidence.
+- **LCA Data Provenance** (private): research tooling for traceability and reproducibility of environmental data; not an EPD certification tool.
 
-## Selected projects
+## Public technical prototypes
 
-### Environmental software
+- **[qwencoder](https://github.com/tiagodinis90/qwencoder)**: a deterministic provenance-verification prototype.
+- **[Job Search Agent](https://github.com/tiagodinis90/job-search-agent-prototype)**: a local-first Python prototype for evidence-aware vacancy discovery, scoring and offline approval simulation. No real emails or applications are sent.
+- **[Agent Control Plane](https://github.com/tiagodinis90/agent-control-plane)**: experimental infrastructure for coordinating local tooling.
 
-These are independent projects under development. Their source repositories are currently private.
+These are prototypes with documented boundaries rather than production services.
 
-**STRATA LCA**  
-An experimental LCA calculation and data-modelling project, including work on calculation structures, benchmarking and validation tests.
+## Other experiments
 
-**Almada Urban Metabolism**  
-An environmental data project focused on Almada, Portugal. It explores territorial datasets, land cover, urban environmental indicators and the distinction between measured, derived and simulated results.
+I also build narrative games as a way to explore state machines, branching dialogue, navigation and research-driven storytelling. They are **separate from my environmental engineering portfolio**.
 
-**LCA Data Provenance**  
-Python tooling for investigating environmental data integrity, traceability and reproducibility. These checks do not constitute scientific verification or EPD certification.
+The two public experiments, COSMOS (Alexander von Humboldt) and KIRIFUSHI, are listed and explained in [Creative experiments](CREATIVE_EXPERIMENTS.md). Neither is presented as a finished game.
 
-### Public projects
+## Background
 
-**[KIRIFUSHI](https://github.com/tiagodinis90/kirifushi-rpg)**  
-A browser-based narrative RPG prototype developed with React and TypeScript, exploring branching dialogue, game-state transitions and interactive systems.
+**Environmental engineering:** LCA, EPD workflows, carbon data, environmental assessment and physical-system modelling.
 
-**[COSMOS: The Journey of Alexander von Humboldt](https://github.com/tiagodinis90/cosmos-humboldt-rpg)**  
-A browser-based narrative game inspired by Humboldt's scientific journeys, combining exploration, resource management and interactive storytelling.
-
-These personal projects are also opportunities to experiment with application architecture and game systems.
-
-## Current focus
-
-I'm particularly interested in environmental software development, LCA modelling, scientific data engineering and tools that connect environmental assessment methods with transparent implementations.
+**Software:** TypeScript, JavaScript, Python, React, JSON/data modelling, testing and debugging.
 
 [LinkedIn](https://www.linkedin.com/in/tiagotdinis90/)
