@@ -1,5 +1,7 @@
 # Tiago Dinis
 
+**Portfolio website:** [View selected environmental engineering and LCA projects](https://portfolio-tiagodinis90-3868.vercel.app)
+
 **Environmental Engineer & Systems Developer**
 
 Chemical and environmental engineer based in Portugal, with an MSc in Chemical and Biochemical Engineering from FCT NOVA (NOVA University Lisbon). I worked as a Technical Product Specialist at One Click LCA, maintaining LCA software configurations, moving data structures from JSON to TypeScript and testing calculation behaviour across versions.
