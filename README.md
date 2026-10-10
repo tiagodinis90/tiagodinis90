@@ -1,6 +1,6 @@
 # Tiago Dinis
 
-**Portfolio website:** [View selected environmental engineering and LCA projects](https://portfolio-tiagodinis90-3868.vercel.app)
+**Portfolio website:** [View selected environmental engineering and LCA projects](https://tiagodinis.vercel.app)
 
 **Environmental Engineer & Systems Developer**
 
