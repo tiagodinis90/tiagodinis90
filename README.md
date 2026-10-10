@@ -6,6 +6,13 @@ Chemical and environmental engineer based in Portugal, with an MSc in Chemical a
 
 My technical interests are life cycle assessment, environmental data provenance, scientific software and reproducible calculations.
 
+## Selected case studies
+
+Two short, publicly readable case studies explain the methods, implemented work and limitations behind the ongoing larger projects. The application repositories remain private; these are **not claims of released source code**.
+
+- **[Almada environmental evidence](case-studies/almada-environmental-evidence.md)** — official CAOP2025 geography, derived COSc2024 land cover, source lineage and a separately reproducible 2023–2024 waste-indicator analysis.
+- **[LCA computation and provenance](case-studies/lca-calculation-and-provenance.md)** — calculation boundaries, functional equivalence, EPD comparison and inspectable validation examples.
+
 ## Engineering work
 
 Most environmental projects are still under active development and are not presented as finished or independently validated software.
